@@ -23,7 +23,7 @@ This project applies **Modern Portfolio Theory (MPT)** to optimize a stock portf
 ## Results
 The model suggests a strategic concentration in **AAPL (~64%)** and **MSFT (~36%)** to achieve optimal stability for the given period.
 
-![Optimized Weights](optimized_weights.png)
+![Optimized Weights](5303f3e2-8490-4272-a3f3-44ecef43b724.png)
 
 ## Author
 **A.M.R.N.A. Menike** *BSc (Hons) in Financial Mathematics and Industrial Statistics* University of Ruhuna, Sri Lanka.
